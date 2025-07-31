@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Are you a member? Go to the [member view](https://github.com/g-placeholder?view_as=member)
+
 <!--
 
 **Here are some ideas to get you started:**
